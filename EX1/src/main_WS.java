@@ -1,7 +1,7 @@
 public class main_WS {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Exercice 6... ");
 		CLbonjour objBjr;
 		CLaddition clAdd = new CLaddition();
 		
@@ -22,6 +22,7 @@ public class main_WS {
 		System.out.println(objBjr.m_bonjour1());
 		System.out.println(clAdd.m_add(2,3));
 		
+
 	}
 
 }
